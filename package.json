@@ -37,14 +37,14 @@
   },
   "name": "react-cicd-test-package",
   "author": "jenkins-x-bot",
-  "module": "dist/my-library-to-publish.esm.js",
+  "module": "dist/my-library-to-publis.esm.js",
   "size-limit": [
     {
-      "path": "dist/my-library-to-publish.cjs.production.min.js",
+      "path": "dist/my-library-to-publis.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/my-library-to-publish.esm.js",
+      "path": "dist/my-library-to-publis.esm.js",
       "limit": "10 KB"
     }
   ],
