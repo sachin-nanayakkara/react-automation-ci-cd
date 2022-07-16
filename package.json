@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "my-library-to-publish",
+  "name": "react-cicd-test-package",
   "author": "jenkins-x-bot",
   "module": "dist/my-library-to-publish.esm.js",
   "size-limit": [
