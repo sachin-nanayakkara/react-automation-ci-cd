@@ -1,5 +1,5 @@
 {
-  "displayName": "react-cicd-test-package",
+  "displayName": "react-cicd-test-package-versionew",
   "version": "0.1.2",
   "license": "MIT",
   "main": "dist/index.js",
@@ -35,16 +35,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-cicd-test-package",
+  "name": "react-cicd-test-package-versionew",
   "author": "jenkins-x-bot",
-  "module": "dist/my-library-to-publis.esm.js",
+  "module": "dist/react-cicd-test-package-versionew.esm.js",
   "size-limit": [
     {
-      "path": "dist/my-library-to-publis.cjs.production.min.js",
+      "path": "dist/react-cicd-test-package-versionew.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/my-library-to-publis.esm.js",
+      "path": "dist/react-cicd-test-package-versionew.esm.js",
       "limit": "10 KB"
     }
   ],
