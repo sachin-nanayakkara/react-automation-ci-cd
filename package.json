@@ -20,6 +20,9 @@
     "size": "size-limit",
     "analyze": "size-limit --why"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {},
   "husky": {
     "hooks": {
